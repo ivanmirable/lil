@@ -1,0 +1,62 @@
+  
+.footer{
+    background-color:#303036;
+    color: #d3d3d3;
+    position: relative;
+ }
+ .footer .footer-section{
+    padding: 22pxs;
+ }
+ .footer h3{
+    margin-top: 10px;
+    color: white;
+ }
+ .footer .about .contact span{
+    display: block;
+    font-size: 1.1em;
+    margin-bottom: 8px;
+ }
+ .footer .contact-form input{
+    margin-bottom: 8px;
+ }
+ .footer .contact-form i{
+    color: white;
+ }
+ .footer .links ul{
+    margin-bottom: 10px;
+ }
+ .footer .contact-form button{
+    color: white;
+    transition: all .3s;
+ }
+ .footer .contact-form button:hover{
+    color: #fff;
+    margin-left: 15px;
+    transition: all .3s;
+ }
+ .footer .about .socials a{
+    border: 1px solid gray;
+    width: 45px;
+    height: 41px;
+    padding-top: 5px;
+    margin-right: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: 1.3em;
+    border-radius: 5px;
+    transition: all .3s;
+    color: #fff;
+ }
+ .footer .links ul a{
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    transition: all .3s;
+    color: #fff;
+    text-decoration:none;
+ }
+ .footer .links ul a:hover{
+    color:white;
+    margin-left: 15px;
+    transition: all .3s;
+ }
